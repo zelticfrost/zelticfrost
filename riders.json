@@ -1,0 +1,53 @@
+{
+    "count": 4,
+    "riders": [
+        {
+            "id": 0,
+            "name": "Lennard",
+            "lastname": "Kämna",
+            "dateOfBirth": "1995-09-9",
+            "nationality": "Germany",
+            "weight": "65" /*kg*/,
+            "height": "1.81" /*m*/,
+            "picture": "kamnaLennard.jpeg",
+            "UCIranking": 190,
+            "careerPoints": 1665
+        },
+        {
+            "id": 1,
+            "name": "Sergio",
+            "lastname": "Higuita",
+            "dateOfBirth": "1997-08-1",
+            "nationality": "Colombia",
+            "weight": "57" /*kg*/,
+            "height": "1.66" /*m*/,
+            "picture": "higuitaSergio.jpg",
+            "UCIranking": 18,
+            "careerPoints": 2902
+        },
+        {
+            "id": 2,
+            "name": "Bob",
+            "lastname": "Jungels",
+            "dateOfBirth": "1992-09-22",
+            "nationality": "Luxembourg",
+            "weight": "70" /*kg*/,
+            "height": "1.89" /*m*/,
+            "picture": "jungelsBob.jpg",
+            "UCIranking": 282,
+            "careerPoints": 5019
+        },
+        {
+            "id": 3,
+            "name": "Wout",
+            "lastname": "Van Aert",
+            "dateOfBirth": "1994-09-15",
+            "nationality": "Belgium",
+            "weight": "78" /*kg*/,
+            "height": "1.90" /*m*/,
+            "picture": "vanAertWout.jpg",
+            "UCIranking": 3,
+            "careerPoints": 8505
+        },
+    ]
+}
