@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zelticfrost
-- 👀 I’m interested in UX design and learniing about code
+- 👀 I’m interested in UX design and learning about code
 - 🌱 I’m currently learning angular, nodejs, and python
 - 💞️ I’m looking to collaborate on any UX design stuff
 - 📫 How to reach me ...
