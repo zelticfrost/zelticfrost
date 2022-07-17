@@ -1,6 +1,4 @@
-{
-    "count": 4,
-    "riders": [
+[
         {
             "id": 0,
             "name": "Lennard",
@@ -50,4 +48,3 @@
             "careerPoints": 8505
         },
     ]
-}
