@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @zelticfrost
+- 👋 Hi, I’m Mauricio Zambrano
 - 👀 I’m interested in UX design and learning about code
-- 🌱 I’m currently learning angular, nodejs, and python
+- 🌱 I’m currently learning reactjs, nodejs, and python
 - 💞️ I’m looking to collaborate on any UX design stuff
-- 📫 How to reach me ...
 
 <!---
 zelticfrost/zelticfrost is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
